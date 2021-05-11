@@ -9,5 +9,5 @@ function div_vars(a, b) {
     		return a / b;
 		}
 function mult_vars(a, b) {
-    		return a + b;
+    		return a * b;
 		}
