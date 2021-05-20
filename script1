@@ -1,6 +1,6 @@
 var max = 999;
 var digit = {
-    number: prompt("Введите число"), /*запрос у пользователя +prompt('Введите число от 0 до 999'),*/
+    number: prompt("Введите число"),
     units: 0,
     tens: 0,
     hundreds: 0,
