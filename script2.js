@@ -9,4 +9,3 @@ var my_basket = [{'type':'bananas','price': 100,'weight':100},
             }
             return sum;
         }
-
